@@ -1,0 +1,9 @@
+{
+    "credentials": {
+        "email": "",
+        "password": ""
+    },
+    "command": {
+        "prefix": "!"
+    }
+}
